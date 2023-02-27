@@ -269,6 +269,37 @@
                     transform: translateY(0);
                 }
                 
+                .card {
+                    margin: 0 auto;
+                }
+                
+                .s-content3 {
+                    background-color: rgba(123, 249, 182, 0.4);
+                    padding: 1em;
+                    min-height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    opacity: 0;
+                    transition: opacity 1s ease-in-out;
+                }
+                
+                .show-once3 {
+                    opacity: 0;
+                    transform: translateY(50px);
+                    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+                }
+                
+                .show-once3.show3 {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+                
+                .CVimg {
+                    display: block;
+                    margin: 0 auto;
+                }
+                
                 @font-face {
                     font-family: 'Aurella';
                     src: url('fonts/aurella.woff2') format('woff2'), url('fonts/aurella.woff') format('woff'), url('fonts/aurella.ttf') format('truetype');
