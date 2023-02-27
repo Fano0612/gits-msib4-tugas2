@@ -128,16 +128,7 @@
     <p>An event made to welcome first-year students of computer science major</p>
   </div>
 </div>
-<!-- 
-<div class="card">
-  <div class="card-img">
-    <img src="" alt="Card Image">
-  </div>
-  <div class="card-content">
-    <h2>CDCI</h2>
-    <p>CDCI (Calculator for Death Ceremony in Indonesia) is a calculator to calculate the days on when to hold the death ceremony based on Javanese calendar</p>
-  </div> -->
-<!-- </div> -->
+
 
   
 </section>
@@ -184,38 +175,6 @@
     </div>
   </div>
   <hr class="hr1">
-
-
-
-
-<!-- <div class="container">
-    <div class="row">
-
-    <div class="row">
-  <div class="col-md-4 col-sm-6">
-    <h4>Contact Us</h4>
-    <ul class="list-unstyled">
-      <li><i class="fa fa-envelope-o"></i> Fanomulyadi@gmail.com</li>
-      <li><a class ="sos" href="https://wa.link/dikcdp"><img class="sosimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" alt="">+6281398590772</a></li>
-      <li><img class="sosimg" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt=""><i class="fa fa-map-marker"></i> Jakarta, Indonesia</li>
-    </ul>
-  </div>
-  <div class="col-md-4 col-sm-6 text-center">
-    <ul class="list-inline social-buttons">
-      <li><a class ="sos" href="https://www.instagram.com/fano12.m/"><img class="sosimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="">Fano12.M</a></li>
-      <li><a class ="sos" href="https://www.instagram.com/fano12.m/"><img class="sosimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="">Fano12.M</a></li>
-      <li><a class ="sos" href="https://www.instagram.com/fano12.m/"><img class="sosimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="">Fano12.M</a></li>
-    </ul>
-  </div>
-</div>
-
-    <div class="row">
-      <div class="col-xs-12">
-        <hr>
-        <p class="text-muted text-center">©2023 <a href="https://www.instagram.com/fano12.m/">Fano Mulyadi</a></p>
-      </div>
-    </div>
-  </div> -->
 </footer>
 
 
