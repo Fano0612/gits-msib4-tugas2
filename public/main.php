@@ -128,7 +128,24 @@
     <p>An event made to welcome first-year students of computer science major</p>
   </div>
 </div>
+<!-- 
+<div class="card">
+  <div class="card-img">
+    <img src="" alt="Card Image">
+  </div>
+  <div class="card-content">
+    <h2>CDCI</h2>
+    <p>CDCI (Calculator for Death Ceremony in Indonesia) is a calculator to calculate the days on when to hold the death ceremony based on Javanese calendar</p>
+  </div> -->
+<!-- </div> -->
 
+  
+</section>
+<section class="s-content3 show-once3">
+  <h1 class="s-title">CV</h1>
+  <br><br>
+
+  <img class = "CVimg" src="../images/CV.png" alt="">
 
   
 </section>
